@@ -63,6 +63,13 @@
     cursor: pointer;
 }
 
+.todo-app p{
+    color: rgb(165, 155, 155);
+    font-size: 18px;
+    padding-left: 10px;
+  
+}
+
 
 ul li{
     
